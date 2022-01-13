@@ -20,6 +20,12 @@ export const TokensToUnbuttonWrapperMap = {
         '0x1e6bb68acec8fefbd87d192be09bb274170a0548':
             '0xF03387d8d0FF326ab586A58E0ab4121d106147DF',
     },
+
+    42: {
+        // AMPL => WAMPL
+        '0x3E0437898a5667a4769B1Ca5A34aAB1ae7E81377':
+            '0xd012092d13e5a4aa7a9032335b380c62fc707232',
+    }
 };
 
 // Returns the current wrapper exchange rate,
